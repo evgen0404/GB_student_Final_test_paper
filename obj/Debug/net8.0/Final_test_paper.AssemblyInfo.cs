@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Final_test_paper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6537e0236f9e8b47d096210c2d8989a29df9e58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Final_test_paper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Final_test_paper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
